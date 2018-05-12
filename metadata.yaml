@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8235'
     url: http://www.gutenberg.org/2009/agents/8235
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18759#From-the-Ball-Room-to-Hell
 gutenberg_issued: '2006-07-05'
 gutenberg_type: Text
 identifiers:
